@@ -1,4 +1,4 @@
-# 서울시립대학교 중앙동아리 유도부 지호 UOS Judo Time Jiho
+# 서울시립대학교 유도부 지호 UOS Judo Time Jiho
 
 [유도부 홈페이지 링크](https://uosjudo.com)
 
@@ -26,14 +26,43 @@
 
 훈련 일지, 지호지, 공지사항을 작성합니다.
 
+# 개발 환경
+
+```bash
+Ubuntu Linux 20.04.
+Node 18.x
+```
+
+# Install instruction
+
+1. install dependency
+
+```bash
+npm install
+```
+
+2. dev run
+
+```bash
+npm run start
+```
+
+3. production run
+
+```bash
+npm run prod:start
+```
+
 # 기술스택
 
 ## FE
 
 - React 18
+- Vite
 - typescript
 - recoil
 - styled-component JS-in-CSS
+- tailwindcss
 
 ## BE
 
@@ -47,7 +76,8 @@
   - ec2
   - s3
 - docker
-- git action
+- nginx
+- github action
 
 ## OAS
 
@@ -57,8 +87,8 @@
 
 ## FE
 
-34기 김영민
+34기 [김영민](https://github.com/99mini)
 
 ## BE
 
-38기 이진수
+38기 [이진수](https://github.com/Relaxed-Mind)
