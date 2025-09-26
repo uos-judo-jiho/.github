@@ -26,63 +26,6 @@
 
 훈련 일지, 지호지, 공지사항을 작성합니다.
 
-# 개발 환경
-
-```bash
-Ubuntu Linux 20.04.
-Node 18.x
-```
-
-# Install instruction
-
-1. install dependency
-
-```bash
-npm install
-```
-
-2. dev run
-
-```bash
-npm run start
-```
-
-3. production run
-
-```bash
-npm run prod:start
-```
-
-# 기술스택
-
-## FE
-
-- React 18
-- Vite
-- typescript
-- recoil
-- styled-component JS-in-CSS
-- tailwindcss
-
-## BE
-
-- Java
-- Java Spring
-- MySQL
-
-## DevOps
-
-- aws
-  - ec2
-  - s3
-- docker
-- nginx
-- github action
-
-## OAS
-
-- Swagger
-
 # 프로젝트 멤버
 
 ## FE
